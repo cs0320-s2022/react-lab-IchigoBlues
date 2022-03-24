@@ -1,0 +1,24 @@
+{
+  "name": "react-lab-ichigoblues",
+  "version": "1.0.0",
+  "description": "Stencil for React Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs0320-s2022/react-lab-IchigoBlues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs0320-s2022/react-lab-IchigoBlues/issues"
+  },
+  "homepage": "https://github.com/cs0320-s2022/react-lab-IchigoBlues#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "create-react-app": "^5.0.0",
+    "typescript": "^4.6.2"
+  }
+}
